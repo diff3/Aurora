@@ -1,0 +1,11 @@
+command line:
+https://www.tutorialspoint.com/python/python_command_line_arguments.htm
+
+main:
+https://stackoverflow.com/questions/4041238/why-use-def-main
+
+config file:
+https://stackoverflow.com/questions/5055042/whats-the-best-practice-using-a-settings-file-in-python
+
+strings empty
+https://stackoverflow.com/questions/9926446/how-to-check-whether-a-strvariable-is-empty-or-not
