@@ -16,7 +16,7 @@ save = ""
 name = ""
 
 if not location:
-    location = "location"
+    location = "default"
 
 def config( file ):
     global aurora_url
@@ -54,7 +54,6 @@ def count_percentage():
     global save
     global name
 
-    print float(lat)
     # count which col and row, row is offset by 17 lines because of help text
     # also it starts on -90.
     x = int(round(lat / 0.32846715))
