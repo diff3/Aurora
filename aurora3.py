@@ -74,4 +74,4 @@ def main(argv):
     calculate_aurora_probability( configure )
 
 if __name__ == "__main__":
-        main( sys.argv[1:] )
+    main( sys.argv[1:] )
